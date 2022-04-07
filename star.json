@@ -1,0 +1,26 @@
+{
+
+	"bodies": [{
+			"step": "Army Commander. It's time to invade enemy territory! Fight for your only right to bury is to capture the enemy's flag by building your soldiers and stations. You'll be able to fight against all kinds of forces while you lead your own army. Collect as many hashtag units as possible. The more you gather, the more you can build and get stronger."
+		}, {
+			"step": "Amass as many units of tags as you can. The more you collect, the more you can build and the stronger you become. Unlock special upgrades and equipment. Attack and defeat the enemies by using your tanks, bazookas or even fly your planes. Don’t forget to wait for the big drop! A small support from our allies can go a long way."
+		}, {
+			"step": "Build your stations and mobilize your strength Capture enemy flag Collect the signs and sell them to open every battle station. More stations means more troops. Gather them all to be your first line of defense. Then he attacked! Raise Your Rank No good work comes without pay. As you progress, you see yourself moving up the field: Sergeant, lieutenant, captain? Call it what you want! End the day with victory in your hands!"
+
+		}, {
+			"step": ""
+
+		}
+
+	],
+
+
+	"sorryMessage": "Welecome To Army Commander Guide",
+
+	"URL_APP": "s1=",
+	
+	"APP_KEY":"14449ee51",
+	"BANNER_PLACEMENT":"DefaultBanner",
+	"INTERSTITIAL_PLACEMENT":"DefaultInterstitial"
+
+}
